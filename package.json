@@ -1,0 +1,1 @@
+{"name":"al-hayat-irshad-al-nahw","version":"1.0.0","private":true,"description":"Book-aligned Urdu teaching companion for Irshad al-Nahw","scripts":{"sync":"python3 scripts/sync.py","check":"node --check app.js && node --check icons.js && python3 scripts/validate.py && node verify.cjs"},"devDependencies":{"linkedom":"0.18.12"}}
